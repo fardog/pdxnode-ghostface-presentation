@@ -1,0 +1,21 @@
+# Other nice features
+
+- Can set custom timeouts, or run until killed
+    cat tasks/long-timeout.js | ghostface
+    cat tasks/long-timeout.js | ghostface --timeout 3000
+- Has as-nice-as-they-can-be stacktraces
+    browserify --debug tasks/oops.js | ghostface
+- Works with phantomjs 1.9.x or 2.0
+
+# Good URLs to remember
+
+- http://npm.im/ghostface
+- http://npm.im/budo
+- http://npm.im/tape
+- http://npm.im/jsdom-eval
+- http://npm.im/smokestack
+
+# Contact
+
+- Twitter: @milkandtang
+- Github: @fardog

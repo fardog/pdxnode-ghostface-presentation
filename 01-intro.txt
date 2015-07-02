@@ -1,0 +1,10 @@
+ghostface (http://npm.im/ghostface)
+===================================
+
+Pipe your JS straight to PhantomJS
+
+
+Nathan Wittstock, Web Engineer @ Urban Airship
+
+- Github: @fardog
+- Twitter: @milkandtang

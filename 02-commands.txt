@@ -1,0 +1,19 @@
+tape tests/returns-true.js
+
+tape tests/insert-dom-element.js
+
+browserify --debug tests/returns-true.js | ghostface
+browserify --debug tests/get-page-title.js | ghostface
+
+cat tasks/print-page-title.js | ghostface
+cat tasks/print-page-title.js | ghostface --html templates/nice-document.html 
+
+node tests/returns-true.js
+xdg-open https://github.com/substack/tape/blob/master/bin/tape
+
+xdg-open http://localhost:9966
+
+# note to self: make test fail first
+tape tests/returns-true.js
+browserify --debug tests/returns-true.js | ghostface
+browserify --debug tests/returns-true.js | ghostface | tap-set-exit

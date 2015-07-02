@@ -1,0 +1,19 @@
+{
+  "name": "pdxnode-ghostface-presentation",
+  "version": "1.0.0",
+  "description": "A presentation on ghostface: eval your JS in phantom.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Wittstock <nate@milkandtang.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^10.2.4",
+    "budo": "^4.1.0",
+    "ghostface": "^1.3.0",
+    "jsdom-eval": "^0.2.5",
+    "tap-set-exit": "^1.1.0",
+    "tape": "^4.0.0"
+  },
+  "dependencies": {}
+}
