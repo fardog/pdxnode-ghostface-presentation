@@ -14,9 +14,9 @@ The talk was primarily me running commands in ghostface, and talking up
 [tape][3], the test harness that makes running your tests in different
 environments easy. Slides are:
 
-- [./01-intro.txt][]: Intro slide an contact information
-- [./02-commands.txt][]: Commands that I ran to show off some features
-- [./03-end.txt][]: Info on some nice features, and other libraries you should
+- [./01-intro.txt](./01-intro.txt): Intro slide an contact information
+- [./02-commands.txt](./02-commands.txt): Commands that I ran to show off some features
+- [./03-end.txt](./03-end.txt): Info on some nice features, and other libraries you should
   check out.
 
 Please leave [an issue][3] if there's any questions you'd like addressed!
