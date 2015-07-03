@@ -19,7 +19,7 @@ environments easy. Slides are:
 - [./03-end.txt](./03-end.txt): Info on some nice features, and other libraries you should
   check out.
 
-Please leave [an issue][3] if there's any questions you'd like addressed!
+Please leave [an issue][4] if there's any questions you'd like addressed!
 
 ## License
 
@@ -27,4 +27,5 @@ This talk is [MIT Licensed](./LICENSE), why not.
 
 [1]: http://npm.im/ghostface
 [2]: http://phantomjs.org/
-[3]: https://github.com/fardog/pdxnode-ghostface-presentation/issues
+[3]: https://github.com/substack/tape
+[4]: https://github.com/fardog/pdxnode-ghostface-presentation/issues
